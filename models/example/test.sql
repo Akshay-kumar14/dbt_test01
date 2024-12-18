@@ -1,2 +1,2 @@
 SELECT *
-FROM CapstoneDatasetFinal5.carrier_master
+FROM dbt_akshaykumar14.Products
